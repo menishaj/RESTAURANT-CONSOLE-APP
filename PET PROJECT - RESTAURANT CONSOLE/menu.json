@@ -1,0 +1,29 @@
+[
+  {
+    "mealName": "1. Pad Thai",
+    "price": 325
+  },
+  {
+    "mealName": "2. Green Thai curry",
+    "price": 275
+  },
+  {
+    "mealName": "3. Creamy chicken pasta",
+    "price": 250
+  },
+
+  {
+    "mealName": "4. Italian pizza - Large",
+    "price": 425
+  },
+  {
+    "mealName": "5. Hot chicken wings",
+    "price": 350
+  },
+
+  {
+    "mealName": "6. Shrimp Alfredo pasta",
+    "price": 325
+  }
+
+]

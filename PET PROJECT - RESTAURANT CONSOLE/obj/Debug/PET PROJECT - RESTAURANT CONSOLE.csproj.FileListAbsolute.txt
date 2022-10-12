@@ -1,0 +1,26 @@
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\PET PROJECT - RESTAURANT CONSOLE.exe.config
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\PET PROJECT - RESTAURANT CONSOLE.exe
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\PET PROJECT - RESTAURANT CONSOLE.pdb
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\obj\Debug\PET PROJECT - RESTAURANT CONSOLE.csproj.AssemblyReference.cache
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\obj\Debug\PET PROJECT - RESTAURANT CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\obj\Debug\PET PROJECT - RESTAURANT CONSOLE.exe
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\obj\Debug\PET PROJECT - RESTAURANT CONSOLE.pdb
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Buffers.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Memory.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Text.Json.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.ValueTuple.dll
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Buffers.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Memory.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Text.Json.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\bin\Debug\System.ValueTuple.xml
+C:\Users\mjugoo\source\repos\PET PROJECT - RESTAURANT CONSOLE\PET PROJECT - RESTAURANT CONSOLE\obj\Debug\PET PROJECT - RESTAURANT CONSOLE.csproj.CopyComplete
